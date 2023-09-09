@@ -9,7 +9,7 @@ function createWindow () {
   })
 
   // and load the index.html of the app.
-  mainWindow.loadFile('index.html')
+  mainWindow.loadFile('https://raw.githubusercontent.com/BrayDo2010/gui/main/index.html')
 
   // Open the DevTools.
   // mainWindow.webContents.openDevTools()
